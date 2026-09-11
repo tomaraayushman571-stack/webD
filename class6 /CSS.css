@@ -1,0 +1,19 @@
+h1{
+    color: blueviolet;
+}
+.two {color: chocolate;}
+h3{color: crimson;}
+#three{color: darkred;}
+#main{
+    height:300px;
+width: 300px;
+ background-color: firebrick;
+  transition: 2s;
+}
+#main:hover{
+    border-radius: 50%;
+    margin-left: 600px ;
+}
+#child{width: 50%;
+height: 50%;
+background-color: darkslateblue;}
